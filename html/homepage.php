@@ -132,6 +132,6 @@
                 </div>
             </section>
          </main>
-        <script src="slider.js"></script>
+        <script src="js/slider.js"></script>
 
 <?php include './footer.php'?>
